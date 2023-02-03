@@ -2,14 +2,14 @@
 
 Nuovo testo
 
-##SECTION
+## SECTION
 texttexttexttext
 
-##LAVORI
-- Elenco 
+## LAVORI
+- Elenco  
 - Elenco 2
 - Elenco wooo
 
-##CONTACTI
+## CONTACTI
 
 [TESTO DEL LINK] (https://youtu.be/dQw4w9WgXcQ)
