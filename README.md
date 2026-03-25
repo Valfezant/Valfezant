@@ -1,15 +1,3 @@
-# TESTO
+I am a junior designer from Italy, eager to contribute to a powerful artistic medium full of untapped potential. I’m especially fascinated by clever gameplay systems and unique player experiences. I also have some familiarity with art and programming in C#.
 
-Nuovo testo
-
-## SECTION
-texttexttexttext
-
-## LAVORI
-- Elenco  
-- Elenco 2
-- Elenco wooo
-
-## CONTACTI
-
-[TESTO DEL LINK](https://youtu.be/dQw4w9WgXcQ)
+Please check out my [portfolio] (https://valfezant.github.io/)
